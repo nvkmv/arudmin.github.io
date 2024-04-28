@@ -1,0 +1,6 @@
+# flyctl launch added from ytkratkobot\.gitignore
+ytkratkobot\**\.env
+fly.toml
+ytkratkobot\model
+ytkratkobot\json\*.*
+\\*.wav
